@@ -1,0 +1,11 @@
+{
+  "title": "SPADE — Citizen Journalism & Civic Reporting Platform",
+  "description": "SPADE (Social/Public Affairs & Development) empowers citizen journalism, local issue reporting, and verified community newsrooms across Tamil Nadu.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
